@@ -1,0 +1,15 @@
+.swap-container {
+  width: 10%;
+  height: 8%;
+  background-color: #D84743;
+  border-radius: 4%;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  opacity: 0.9;
+}
+.swap-container:hover {
+  cursor: pointer;
+}/*# sourceMappingURL=swap.css.map */
